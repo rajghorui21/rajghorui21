@@ -1,7 +1,6 @@
-## Hi there 👋
+Hi 👋, I'm Raj Ghorui
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
